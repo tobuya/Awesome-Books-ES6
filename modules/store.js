@@ -1,6 +1,7 @@
 import {
   title, author, addBooks, registeredBooks, deleteBook,
 } from './booklist.js';
+
 import { Books } from './onload.js';
 
 class Book {

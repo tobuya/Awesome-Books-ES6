@@ -4,7 +4,7 @@ export const title = document.querySelector('#title');
 
 export const addBooks = (Books) => {
   registeredBooks.innerHTML = '';
-  for (let i = 0; i < Books.length; i++) {
+  for (let i = 0; i < Books.length; i += 1) {
     registeredBooks.innerHTML += `
       <div class="title-and-author"> 
         <p class="Title">"${Books[i].title}" by  ${Books[i].author}</p>
