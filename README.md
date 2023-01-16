@@ -1,11 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-
-<img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
