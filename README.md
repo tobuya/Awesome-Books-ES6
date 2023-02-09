@@ -96,7 +96,7 @@ Clone this repository to your desired folder:
 
 - GitHub: [@githubhandle](https://github.com/tobuya)
 - Twitter: [@twitterhandle](https://twitter.com/@MullerTheGreat1)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/thomas-obuya-51b49719b/)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/tobuya/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
