@@ -17,27 +17,30 @@
 <!-- PROJECT DESCRIPTION -->
 # 📖 Awesome Books <a name="about-project"></a>
 
-> Awesome books is a simple website that displays a list of books and allows you to add and remove books from that list. 
+> Awesome books is a simple website that displays a list of books and allows you to add and remove books from that list.
 
-Here are some features of the page:
+![Screenshot](./assets/awesome-books.png)
+
+ ✨ App features ✨
 
 - Add a book to your collection.
 - Remove a book from your collection.
-- Store your data history in the browser's memory.
+- Preserve data in the local storage.
+- View a list of books
 
 
 ## 🛠 Built With <a name="built-with"></a>
-    HTML
-    CSS
-    Javascript
+    . HTML
+    . CSS
+    . Javascript
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+# 🚀 Live Demo <a name="live-demo"></a>
 
-[Awesome Book](https://tobuya.github.io/Awesome-Books-ES6/#)
+[Awesome Book](https://tobuya.github.io/Awesome-Books-ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -46,15 +49,8 @@ Here are some features of the page:
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-- Create a local directory that you want to clone the repository.
+To get started with this project, follow the instructions below:
 
-- Open the command prompt in the created directory.
-
-- On the terminal run this command git clone https://github.com/tobuya/Awesome-Books-ES6
-
-- Go to the repository folder using command prompt cd Awesome_Book.
-
-- Install the dev dependencies for linters run npm install.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -62,9 +58,11 @@ Here are some features of the page:
 
 In order to run this project you need:
 
-- Google chrome
+- Node.js installed and configured
 
-- Internet Explorer
+- Luxon library installed and configured
+
+- VS Code or Any other code editor
 
 - Any browser
 
@@ -73,16 +71,36 @@ In order to run this project you need:
 
 ### Setup
 
-Clone this repository to your desired folder:
+- Create a local directory that you want to clone the repository:
+```
+mkdir my-directory
+```
 
-- Open the command prompt in the created directory.
+- Navigate to the created directory:
+```
+cd my-directory
+```
 
-- On the terminal run this command git clone https://github.com/tobuya/Awesome-Books-ES6
+- Clone this repository into the folder:
+```
+git clone https://github.com/tobuya/Awesome-Books-ES6
+```
 
-- Go to the repository folder using command prompt cd Awesome-Books-ES6
+- Navigate to the cloned repository folder:
+```
+cd Awesome-Books-ES6
+```
 
-- Install the dev dependencies for linters run npm install.
---->
+- Setup ESLint and Stylelint
+```
+npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-import@2.x babel-eslint@10.x
+npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+```
+
+- Install Node development dependencies
+```
+npm install --save-dev
+```
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -134,6 +152,6 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-[Luxon](https://imdac.github.io/modules/js/luxon/)
+- I would like to acknowledge the use of [Luxon library](https://imdac.github.io/modules/js/luxon/) to handle dates, times, and durations in a convenient and efficient manner.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
