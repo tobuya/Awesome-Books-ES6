@@ -13,6 +13,7 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 # 📖 Awesome Books <a name="about-project"></a>
@@ -153,5 +154,11 @@ Give a ⭐️ if you like this project!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - I would like to acknowledge the use of [Luxon library](https://imdac.github.io/modules/js/luxon/) to handle dates, times, and durations in a convenient and efficient manner.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+This project is [MIT](./LICENCE) licensed.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
