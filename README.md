@@ -7,6 +7,7 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
   - [🚀 Live Demo](#live-demo)
+  - [✨ Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
@@ -22,7 +23,7 @@
 
 ![Screenshot](./assets/awesome-books.png)
 
- ✨ App features ✨
+## ✨ App features <a name="key-features"></a>
 
 - Add a book to your collection.
 - Remove a book from your collection.
