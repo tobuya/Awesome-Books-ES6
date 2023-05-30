@@ -109,7 +109,7 @@ form button {
 footer {
   position: fixed;
   bottom: 0;
-  right: 25%;
+  width: 100vw;
   text-align: center;
   align-items: center;
 }
