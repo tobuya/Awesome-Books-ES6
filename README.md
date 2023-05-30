@@ -29,7 +29,7 @@
 > Awesome books is a simple website that displays a list of books and allows you to add and remove books from that list.
 
 ## 📸 Screenshots <a name="screenshot"></a>
-![Screenshot](./assets/awesome-book.png)
+![Screenshot](./assets/frame_generic_light.png)
 
 ## ✨ App features <a name="key-features"></a>
 
