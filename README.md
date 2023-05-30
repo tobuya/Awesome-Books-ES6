@@ -1,5 +1,11 @@
 <a name="readme-top"></a>
 
+[![Contributors](https://img.shields.io/github/contributors/tobuya/Awesome-Books-ES6)](https://github.com/tobuya/Awesome-Books-ES6/graphs/contributors)
+[![LastUpdate](https://img.shields.io/github/last-commit/tobuya/Awesome-Books-ES6)](https://github.com/tobuya/Awesome-Books-ES6/commits/dev)
+[![Stargazers](https://img.shields.io/github/stars/tobuya/Awesome-Books-ES6)](https://github.com/tobuya/Awesome-Books-ES6/stargazers)
+[![Issues](https://img.shields.io/github/issues/tobuya/Awesome-Books-ES6)](https://github.com/tobuya/Awesome-Books-ES6/issues)
+[![License](https://img.shields.io/github/license/tobuya/Awesome-Books-ES6)](https://github.com/tobuya/Awesome-Books-ES6/blob/main/LICENSE)
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
